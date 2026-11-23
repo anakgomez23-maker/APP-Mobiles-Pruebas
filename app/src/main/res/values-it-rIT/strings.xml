@@ -10,4 +10,10 @@
     <string name="home_fab_text">Pulsante aggiungi</string>
     <string name="snackbar_message">Sono uno Snackbar!</string>
     <string name="snackbar_action">Fai qualcosa</string>
+    <string name="options_menu">Opcion</string>
+    <string name="menu_email">Correo</string>
+    <string name="menu_sms">Mensajes</string>
+    <string name="menu_maps">Google Maps</string>
+    <string name="moon_message">Va bene non stare bene. La luna non è sempre piena eppure è bellissima.</string>
+    <string name="moon_image_desc">Immagine della luna</string>
 </resources>

@@ -10,4 +10,10 @@
     <string name="home_fab_text">Add button</string>
     <string name="snackbar_message">I am a Snackbar!</string>
     <string name="snackbar_action">Do something</string>
+    <string name="options_menu">Opcion</string>
+    <string name="menu_email">Email</string>
+    <string name="menu_sms">Messages</string>
+    <string name="menu_maps">Google Maps</string>
+    <string name="moon_message">It\'s okay not to be okay. The moon isn\'t always full and yet it is beautiful.</string>
+    <string name="moon_image_desc">Image of the moon</string>
 </resources>

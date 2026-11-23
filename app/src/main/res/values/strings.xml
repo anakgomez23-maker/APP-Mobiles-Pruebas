@@ -9,4 +9,11 @@
     <string name="home_fab_text">Agregar</string>
     <string name="snackbar_message">¡Soy un Snackbar!</string>
     <string name="snackbar_action">Hacer algo</string>
+    <string name="options_menu">Opcion</string>
+    <string name="menu_email">Correo</string>
+    <string name="menu_sms">Mensajes</string>
+    <string name="menu_maps">Google Maps</string>
+    <string name="title_activity_second2">SecondActivity2</string>
+    <string name="moon_message">Está bien no estar bien. La luna no siempre está llena y aun así es hermosa.</string>
+    <string name="moon_image_desc">Imagen de la luna</string>
 </resources>
